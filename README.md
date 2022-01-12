@@ -1,6 +1,6 @@
 # Exercise-01a-Install-Software
 
-Exercise for Grant Holloway at Indiana University, Bloomington
+Exercise for MSCH-C220 at Indiana University, Bloomington
 
 Your first task is to create an account on [GitHub.com](https://github.com/). Once you have created the account, log in and Fork the repository.
 
