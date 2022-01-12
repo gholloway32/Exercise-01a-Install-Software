@@ -1,6 +1,6 @@
 # Exercise-01a-Install-Software
 
-Exercise for MSCH-C220 at Indiana University, Bloomington
+Exercise for Grant Holloway at Indiana University, Bloomington
 
 Your first task is to create an account on [GitHub.com](https://github.com/). Once you have created the account, log in and Fork the repository.
 
@@ -26,16 +26,16 @@ The final state of this file should be as follows (replacing my information with
 # Exercise 01a: Install Software
 
 ## My name is:
-Jason Francis
+Grant Holloway 
 
 ## My gamedev.stackexchange.com user number is:
-5338
+159506
 
 ## My github username is:
-BL-MSCH-C220-S22
+gholloway32
 
 ## My replit username is:
-BL-MSCH-C220-S22
+gholloway3211
 
 ## I have installed the software on my computer as a part of the exercise
 ```
